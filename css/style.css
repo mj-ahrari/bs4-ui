@@ -10,3 +10,8 @@ body{
     text-align: right !important;
     font-family: 'vaziri';
 }
+@media (max-width:574px) {
+    .f-g-m{
+        display: flex !important;
+    }
+}
